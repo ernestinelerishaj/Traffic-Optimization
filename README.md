@@ -50,4 +50,8 @@ This system simulates a real-world intelligent traffic management platform that:
 ---
 
 ## 📁 Folder Structure
+traffic-alert-system/
+├── app.py # Main logic: detection + UI
+├── processed_output.mp4 # Output video (auto-generated)
+├── README.md # Project documentation
 
